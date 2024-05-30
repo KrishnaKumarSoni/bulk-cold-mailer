@@ -1,1 +1,1 @@
-# bulk-cold-mailer
+# Bulk Cold Email Writer
