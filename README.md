@@ -2,10 +2,6 @@
 
 Welcome to the Sales Automation Tool! 🚀 This tool is your new best friend for writing hyper-personalized and effective cold emails. By leveraging the power of Google Sheets and OpenAI, it automates the process of generating engaging emails for your prospects, saving you heaps of time and boosting your outreach efforts.
 
-## 📋 What's This Tool About?
-
-Imagine having a magical assistant that fetches data from your Google Sheet, uses it to generate personalized emails, and writes those emails back to your Google Sheet. Sounds cool, right? That's exactly what this tool does!
-
 ## 🛠️ Setting Up the Tool
 
 ### Step 1: Clone the Repository
