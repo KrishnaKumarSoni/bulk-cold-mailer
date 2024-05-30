@@ -149,7 +149,7 @@ def authenticate_google():
         else:
             flow = InstalledAppFlow.from_client_secrets_file(
                 GOOGLE_SHEETS_CREDENTIALS, SCOPES)
-            creds = flow.run_local_server(port=0)
+            creds = flow.run_local_server(port=8888)
         with open('token.json', 'w') as token:
             token.write(creds.to_json())
     return creds
