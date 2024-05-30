@@ -93,11 +93,7 @@ streamlit run app.py --server.port=8501
 
 ### Getting Prospect Data
 
-Need prospect data? We recommend using [Apollo.io](https://apollo.partnerlinks.io/fvf6vm0srxwb).
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Need prospect data? Checkout [Apollo.io](https://apollo.partnerlinks.io/fvf6vm0srxwb).
 
 ## 🤝 Contributing
 
@@ -105,6 +101,6 @@ We love contributions! Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 
 ## 📧 Contact
 
-Questions? Issues? Just want to say hi? Open an issue or reach out to us at [your-email@example.com].
+Questions? Issues? Just want to say hi? Open an issue or reach out at [krishna@kuberanix.com].
 
 Happy emailing! 📧✨
